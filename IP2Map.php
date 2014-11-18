@@ -4,7 +4,7 @@ Plugin Name: IP2Map
 Plugin URI: http://www.ip2map.com
 Description: Shows last 100 visitors location on map.
 Version: 1.0
-Author: Sei Kan
+Author: IP2Location
 Author URI: http://www.ip2map.com
 */
 
