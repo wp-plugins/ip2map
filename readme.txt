@@ -2,7 +2,7 @@
 Contributors: IP2Location
 Tags: ip2map, ip2location, ip, map, location, country, region, city, geolocation, geo, visitor, visit, stats, statistic
 Requires at least: 2.0.0
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: /trunk/
 
 Add this widget at your sidebar to track visitors location and show their locaiton on a world map.
